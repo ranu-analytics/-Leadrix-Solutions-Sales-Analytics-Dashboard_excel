@@ -1,6 +1,6 @@
 #  Leadrix Solutions – Sales Analytics Dashboard
 
-![Leadrix Solutions Dashboard](leadrix soluton.png)
+![Leadrix Solutions Dashboard](leadrix_soluton.png)
 
 An Excel-based interactive sales dashboard built for **Leadrix Solutions**, analyzing B2B sales performance across product categories, states, salespersons, and years (2019–2025).
 
